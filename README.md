@@ -33,8 +33,7 @@
 
 ### Diagnostics / ML prototypes
 - **sequential-diagnosis-ai** (private) - Sequential diagnostic reasoning experiments.
-- **[Dr-GPT](https://github.com/sammargolis/Dr-GPT)** - Symptom-to-differential prototype (really old).
-- **[GI-Board-Examination](https://github.com/sammargolis/GI-Board-Examination)** - Automated upload/extraction/analysis pipeline.
+- **[GI-Board-Examination](https://github.com/sammargolis/GI-Board-Examination)** - Automated upload/extraction/analysis pipeline. Hit SOTA on GI Board exam. Published it.
 - **tox** (private) - Ingredient scanning prototype.
 
 ### Older work
