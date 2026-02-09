@@ -15,7 +15,7 @@
 
 ---
 
-## Flagship Open Source
+## Open Source
 - **[OpenScribe](https://github.com/sammargolis/OpenScribe)** - Open source AI medical scribe (local-first, self-hostable).
 
 ---
