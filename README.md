@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Sam Margolis. This README is a living note for my GitHub profile and what I'm focused on right now.
+
+- Building: tools and workflows that make engineering teams faster
+- Interests: developer experience, infrastructure, and pragmatic product engineering
+- Location: United States
+
 <!--
 **sammargolis/sammargolis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
