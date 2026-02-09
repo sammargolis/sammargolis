@@ -1,8 +1,5 @@
 <!-- Profile README for github.com/sammargolis -->
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Sam%20Margolis&fontSize=44&fontAlignY=35&desc=Physician%E2%80%93Engineer%20%7C%20Clinical%20AI%20Systems&descAlignY=62&color=gradient" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sam-margolis/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,7 +17,6 @@
 
 ## Flagship Open Source
 - **[OpenScribe](https://github.com/sammargolis/OpenScribe)** - Open source AI medical scribe (local-first, self-hostable).
-- **[OpenEvals](https://github.com/sammargolis/OpenEvals)** - Open set of evaluations for healthcare conversational agents.
 
 ---
 
@@ -36,8 +32,8 @@
 - **AIAdvocate** (private) - Synthesizes clinical conversations into usable summaries.
 
 ### Diagnostics / ML prototypes
-- **[Dr-GPT](https://github.com/sammargolis/Dr-GPT)** - Symptom-to-differential prototype.
 - **sequential-diagnosis-ai** (private) - Sequential diagnostic reasoning experiments.
+- **[Dr-GPT](https://github.com/sammargolis/Dr-GPT)** - Symptom-to-differential prototype (really old).
 - **[GI-Board-Examination](https://github.com/sammargolis/GI-Board-Examination)** - Automated upload/extraction/analysis pipeline.
 - **tox** (private) - Ingredient scanning prototype.
 
@@ -86,9 +82,3 @@ platforms: [Node.js, Electron, Web]
 ml: [LLMs, eval pipelines, applied clinical NLP]
 infra: [Docker, Postgres]
 ```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=60&text=Projects%20%7C%20Research%20%7C%20Clinical%20AI&fontSize=20&color=gradient" />
-</p>
