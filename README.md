@@ -17,6 +17,7 @@
 
 ## Open Source
 - **[OpenScribe](https://github.com/sammargolis/OpenScribe)** - Open source AI medical scribe (local-first, self-hostable).
+- **[Preclinical](https://github.com/Mentat-Lab/preclinical)** - Evaluation platform for healthcare agents
 
 ---
 
