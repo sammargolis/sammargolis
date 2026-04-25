@@ -21,7 +21,7 @@
 
 ---
 
-## Selected Projects (a bunch of these are just fun side projects)
+## Selected Projects _(a bunch of these are just fun side projects)_
 ### Healthcare agents + clinical tooling
 - **ProspectiveAgent** (private) - Patient agent capable of calling patients and screening for conditions.
 - **prechart** (private) - Precomputed patient context + action memory layer.
