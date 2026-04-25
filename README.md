@@ -16,12 +16,12 @@
 ---
 
 ## Open Source
-- **[OpenScribe](https://github.com/sammargolis/OpenScribe)** - Open source AI medical scribe (local-first, self-hostable).
-- **[Preclinical](https://github.com/Mentat-Lab/preclinical)** - Evaluation platform for healthcare agents
+- **[OpenScribe](https://github.com/sammargolis/OpenScribe)** - Open source AI medical scribe (local-first, self-hostable). Given $10k grant by OCV to support the project.
+- **[Preclinical](https://github.com/Mentat-Lab/preclinical)** - Evaluation platform for healthcare agents.  Will hopefully publish on it soon.
 
 ---
 
-## Selected Projects
+## Selected Projects (a bunch of these are just fun side projects)
 ### Healthcare agents + clinical tooling
 - **ProspectiveAgent** (private) - Patient agent capable of calling patients and screening for conditions.
 - **prechart** (private) - Precomputed patient context + action memory layer.
@@ -39,7 +39,7 @@
 
 ### Older work
 - **[Anti-Facenet](https://drive.google.com/file/d/1SOEkqGbLpMmyND3m5AlQqPeB4rZCy-36/view?usp=sharing)** - Adversarial privacy work (2020).
-- **[Mediband](https://drive.google.com/file/d/1p3uKT93BVAr9RKAP7zJ6BzEnthL0lXYu/view?usp=sharing)** - IoT bracelet for prescription management ($15k funding).
+- **[Mediband](https://drive.google.com/file/d/1p3uKT93BVAr9RKAP7zJ6BzEnthL0lXYu/view?usp=sharing)** - IoT bracelet for prescription management (we won $15k in prize money).
 - **[AWS Comprehend Hackathon](https://docs.google.com/presentation/d/1BwCUDf0_GEskMhBjmXd3d_4VbyVqb7roG-X_8jXxjoo/edit?usp=sharing)** - Mined IRS 990 PDFs -> database -> mapped outputs for social work routing.
 
 ---
