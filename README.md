@@ -35,7 +35,7 @@
 ### Diagnostics / ML prototypes
 - **sequential-diagnosis-ai** (private) - Sequential diagnostic reasoning experiments.
 - **[GI-Board-Examination](https://github.com/sammargolis/GI-Board-Examination)** - Automated upload/extraction/analysis pipeline. Hit SOTA on GI Board exam. Published it.
-- **tox** (private) - Ingredient scanning prototype.
+- **tox** (private) - Ingredient scanning app based on my 
 
 ### Older work
 - **[Anti-Facenet](https://drive.google.com/file/d/1SOEkqGbLpMmyND3m5AlQqPeB4rZCy-36/view?usp=sharing)** - Adversarial privacy work (2020).
