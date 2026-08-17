@@ -52,7 +52,7 @@
 - **[Refractive-index corrected light-sheet microscopy](https://advanced.onlinelibrary.wiley.com/doi/pdf/10.1002/advs.202503684)** - *Advanced Science* (2025)
 
 ### Clinical NLP / LLM evaluation
-- **[Triage and referral behavior of patient-facing medical AI products](https://www.medrxiv.org/content/10.64898/2026.08.15.26360518v1)** - *medRxiv* (2026) - 9 products, 540 simulated encounters; branded health AI over-triaged low-acuity cases 28% vs 2-3% and steered toward affiliated fee-requiring services.
+- **[Triage and referral behavior of patient-facing medical AI products](https://www.medrxiv.org/content/10.64898/2026.08.15.26360518v1)** - *medRxiv* (2026)
 - **[Vision-language + LLM performance in gastroenterology](https://arxiv.org/abs/2409.00084)** - (2024)
 - **[Multimodal LLM board-exam performance](https://www.medrxiv.org/content/10.1101/2024.07.27.24310809.abstract)** - *medRxiv* (2024)
 - **[Improving readability of HF patient education materials using GPT-4](https://cardio.jmir.org/2025/1/e68817)** - *JMIR Cardio* (2025)
