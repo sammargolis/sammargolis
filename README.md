@@ -65,7 +65,7 @@
 ---
 
 ## Built businesses
-- **USocial** - Co-founded digital event marketing company (~$100k+ revenue), sold business (~$200k+ revenue).
+- **USocial** - Co-founded digital event marketing company (~$XXXk+ revenue), sold business (~$XXXk+ revenue).
 
 ---
 
