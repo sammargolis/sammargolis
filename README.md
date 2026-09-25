@@ -10,7 +10,7 @@
 ---
 
 ## Now
-- Building evaluation + safety infrastructure for healthcare conversational agents.
+- Building evaluation + training infrastructure for research and clinical agents.
 - Shipping local-first clinical tooling and agent workflows.
 
 ---
@@ -18,10 +18,11 @@
 ## Open Source
 - **[OpenScribe](https://github.com/sammargolis/OpenScribe)** - Open source AI medical scribe (local-first, self-hostable). Given $10k grant by OCV to support the project.
 - **[Preclinical](https://github.com/Mentat-Lab/preclinical)** - Evaluation platform for healthcare agents.  Will hopefully publish on it soon.
+- **[DrugTargetBench](https://github.com/sammargolis/DrugTargetBench/)** - Evaluation platform for autonomous research agents.
 
 ---
 
-## Selected Projects _(a bunch of these are just fun side projects)_
+## Selected Projects _(most of these are just fun side projects)_
 ### Healthcare agents + clinical tooling
 - **ProspectiveAgent** (private) - Patient agent capable of calling patients and screening for conditions.
 - **prechart** (private) - Precomputed patient context + action memory layer.
@@ -35,7 +36,7 @@
 ### Diagnostics / ML prototypes
 - **sequential-diagnosis-ai** (private) - Sequential diagnostic reasoning experiments.
 - **[GI-Board-Examination](https://github.com/sammargolis/GI-Board-Examination)** - Automated upload/extraction/analysis pipeline. Hit SOTA on GI Board exam. Published it.
-- **tox** (private) - Ingredient scanning app based on my 
+- **tox** (private) - Ingredient scanning app based on my mom wanting to know what was in her food.  Published to the app store
 
 ### Older work
 - **[Anti-Facenet](https://drive.google.com/file/d/1SOEkqGbLpMmyND3m5AlQqPeB4rZCy-36/view?usp=sharing)** - Adversarial privacy work (2020).
