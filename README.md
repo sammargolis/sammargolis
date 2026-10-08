@@ -18,7 +18,7 @@
 ## Open Source
 - **[OpenScribe](https://github.com/sammargolis/OpenScribe)** - Open source AI medical scribe (local-first, self-hostable). Given $10k grant by OCV to support the project.
 - **[Preclinical](https://github.com/Mentat-Lab/preclinical)** - Evaluation platform for healthcare agents.  Will hopefully publish on it soon.
-- **[DrugTargetBench](https://github.com/sammargolis/DrugTargetBench/)** - Evaluation platform for autonomous research agents.
+- **[DrugTargetWorld](https://github.com/sammargolis/DrugTargetWorld/)** - Evaluation platform for autonomous research agents.
 
 ---
 
